@@ -1,2 +1,15 @@
-# Umi-Dva-Antd
-React example created with Umi Dva and Antd.
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
